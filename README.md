@@ -1,2 +1,3 @@
 # Majin-Buu-bot
-Majin Buu bot is a WhatsApp made to spawn new automation and make it better 
+мajιn-вυυ-вoт
+мajιn вυυ вoт ιѕ a wнaтѕapp мade тo ѕpawn new aυтoмaтιon and мaĸe ιт вeттer. тнιѕ ѕιтe ιѕ ғor only and only edυcaтιonal pυrpoѕeѕ no cardιng no нacĸιng no ιllegal acтιvιтιeѕ. 
