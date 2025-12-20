@@ -1,4 +1,4 @@
-<h1 align="center">👑 MAJIN BUU BOT </h1>
+<h1 align="center">🫠 MAJIN BUU BOT </h1>
 
 <p align="center">
   <!-- MAJIN BUU IMAGE -->
