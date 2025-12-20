@@ -11,7 +11,7 @@
   <a href="https://github.com/Dexmark-Tech" title="Dexmark Tech">
     <img src="https://img.shields.io/badge/Dexmark%20Tech-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://wa.me/XXXXXXXXXX" title="Contact on WhatsApp">
+  <a href="https://wa.me/256789029442" title="Contact on WhatsApp">
     <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
