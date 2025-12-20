@@ -1,5 +1,4 @@
-
-<h1 align="center"> 🫠 MAJIN BUU BOT </h1>
+<h1 align="center">👑 MAJIN BUU BOT </h1>
 
 <p align="center">
   <!-- MAJIN BUU IMAGE -->
@@ -12,7 +11,7 @@
   <a href="https://github.com/Dexmark-Tech" title="Dexmark Tech">
     <img src="https://img.shields.io/badge/Dexmark%20Tech-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://wa.me/256789029442" title="Contact on WhatsApp">
+  <a href="https://wa.me/XXXXXXXXXX" title="Contact on WhatsApp">
     <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -37,21 +36,30 @@
 
 ## 📝 About
 
-**мajιn вυυ вoт ιѕ тo ѕpawn new aυтoмaтιon and мaĸe ιт ѕмarтer, no ιllegal acтιvιтιeѕ. υѕe тнe вoт reѕponѕιвly ғollow oυr wнaтѕapp cнannel ғor мore υpdaтeѕ. 
+**мαנιη вυυ вσт ιs тσ sραωη ηεω αυтσмαтιση αη∂ мαкε ιт sмαятεя, ησ ιℓℓεgαℓ αcтιvιтιεs. υsε тнε вσт яεsρσηsιвℓү ғσℓℓσω συя ωнαтsαρρ cнαηηεℓ ғσя мσяε υρ∂αтεs.   
 
 ⚠️ This project is intended for **educational purposes only**. Use responsibly.
 
 ---
 
-## 🔑 Session Pairing
+## 🔑 WhatsApp Session Pairing (Official)
 
-Generate your session ID to connect your WhatsApp account:
+This bot uses **WhatsApp’s official phone-number pairing method** via **Baileys**.
+
+### How to pair:
+1. Open the pairing site
+2. Enter your phone number with country code  
+3. Copy the generated pairing code  
+4. WhatsApp → **Linked Devices** → **Link with phone number**
+5. Paste the code → Done ✅
 
 <p align="center">
-  <a href="https://pair.example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Generate%20Session-233044?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://YOUR-PAIRING-SITE-URL" target="_blank">
+    <img src="https://img.shields.io/badge/Generate%20Pair%20Code-233044?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
+
+> ⚠️ Do NOT share your pairing site publicly.
 
 ---
 
