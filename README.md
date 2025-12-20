@@ -37,7 +37,7 @@
 
 ## 📝 About
 
-**мajιn вυυ вoт ιѕ тo ѕpawn new aυтoмaтιon and мaĸe ιт ѕмarтer, no ιllegal acтιvιтιeѕ. υѕe тнe вoт reѕponѕιвly ғollow oυr wнaтѕapp cнannel ғor мore υpdaтeѕ. нттpѕ://wнaтѕapp.coм/cнannel/0029vвa9n977yѕd48j5мrp1c  
+**мajιn вυυ вoт ιѕ тo ѕpawn new aυтoмaтιon and мaĸe ιт ѕмarтer, no ιllegal acтιvιтιeѕ. υѕe тнe вoт reѕponѕιвly ғollow oυr wнaтѕapp cнannel ғor мore υpdaтeѕ. 
 
 ⚠️ This project is intended for **educational purposes only**. Use responsibly.
 
