@@ -1,7 +1,7 @@
 {
-  "name": "your Botname",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ your name ",
-  "logo": "your image url",
+  "name": "MAJIN-BUU",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Dante Dev ",
+  "logo": "https://files.catbox.moe/t51map.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,11 +16,11 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "your image url"
+      "value": "https://files.catbox.moe/hjgbgt.jpg"
     }, 
     
     "ALIVE_MSG": {
-      "description": "paste your alive message hear.",
+      "description": "Wassup Bro im always in the shadows 🤭😜",
       "required": true,
       "value": "HI DEAR IM ONLINE.!!♻️"
     },
@@ -92,10 +92,10 @@
     
     }, 
 
-    "BOT_NAME": {
+    "MAJIN-BUU": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦『Botname-MD』✦"
+      "value": "✦『Majin-Buu』✦"
     }, 
 
     "HEART_REACT": {
