@@ -1,12 +1,12 @@
 {
-  "name": "Botname-MD",
-  "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By YOUR NAME",
+  "name": "ᴍᴀᴊɪɴ-ʙᴜᴜ",
+  "version": "1.0.0",
+  "description": "A WhatsApp Bot Created By Dante Dev",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Botname-MD",
-    "stop": "pm2 stop Botname-MD",
-    "restart": "pm2 restart Botne-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name MAJIN-BUU",
+    "stop": "pm2 stop MAJIN-BUU",
+    "restart": "pm2 restart MAJIN-BUU"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
