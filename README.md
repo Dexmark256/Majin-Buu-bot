@@ -16,22 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Dexmark-Tech/Majin-Buu-Bot">
-    <img src="https://img.shields.io/github/stars/Dexmark-Tech/Majin-Buu-Bot?color=FFD700&style=flat-square" alt="Stars" />
-  </a>
-  <a href="https://github.com/Dexmark-Tech/Majin-Buu-Bot/network/members">
-    <img src="https://img.shields.io/github/forks/Dexmark-Tech/Majin-Buu-Bot?color=00BFFF&style=flat-square" alt="Forks" />
-  </a>
-  <a href="https://github.com/Dexmark-Tech/Majin-Buu-Bot/watchers">
-    <img src="https://img.shields.io/github/watchers/Dexmark-Tech/Majin-Buu-Bot?label=Watchers&color=orange&style=flat-square" alt="Watchers" />
-  </a>
-  <a href="https://github.com/Dexmark-Tech/Majin-Buu-Bot">
-    <img src="https://img.shields.io/github/repo-size/Dexmark-Tech/Majin-Buu-Bot?style=flat-square&color=green" alt="Repo Size" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Dexmark-Tech&label=Profile+Views&color=blue&style=flat-square" alt="Profile View Counter"/>
-</p>
-
 ---
 
 ## 📝 About
