@@ -1,10 +1,10 @@
 <h1 align="center">AKAZA❄️ BOT </h1>
 
 <p align="center">
-  <!-- AKAZA IMAGE -->
+  <!-- AKAZA❄️ BOT IMAGE -->
   <img src="https://imgur.com/a/PzAa3BP"
        alt="AKAZA❄️ BOT Banner"
-       width="350" />
+       width="340" />
 </p>
 
 <p align="center">
