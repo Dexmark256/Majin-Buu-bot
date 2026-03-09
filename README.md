@@ -1,4 +1,10 @@
-<h1 align="center">AKAZA❄️ BOT </h1>
+<div align="center"> 
+<strong> AKAZA WA BOT </strong>
+    <br>
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Akaza WA BOT;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
+  </a> 
+</div> <h1 align="center">AKAZA❄️ BOT </h1>
 
 <p align="center">
   <!-- AKAZA❄️ BOT IMAGE -->
