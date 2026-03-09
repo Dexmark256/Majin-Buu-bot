@@ -6,7 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Akaza+WA+BOT;Multi+Device+Whatsapp+Bot;Made+by+dante+dev" alt="Typing SVG" />
 </a> 
 
-</div>
 
 <h1 align="center">AKAZA❄️ BOT </h1>
 
