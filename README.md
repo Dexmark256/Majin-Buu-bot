@@ -1,73 +1,29 @@
 <div align="center"> 
 <strong> AKAZA WA BOT </strong>
-    <br>
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Akaza WA BOT;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
-  </a> 
-</div> <h1 align="center">AKAZA❄️ BOT </h1>
+<br>
+
+<a href="https://git.io/typing-svg"> 
+<img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Akaza+WA+BOT;Multi+Device+Whatsapp+Bot;Made+by+dante+dev" alt="Typing SVG" />
+</a> 
+
+</div>
+
+<h1 align="center">AKAZA❄️ BOT </h1>
 
 <p align="center">
-  <!-- AKAZA❄️ BOT IMAGE -->
-  <img src="https://github.com/Dexmark256/Love-bird-dante/blob/main/Screenshot_20260306-221447.jpg"
-       alt="AKAZA❄️ BOT Banner"
-       width="340" />
+<img src="https://github.com/Dexmark256/Love-bird-dante/blob/main/Screenshot_20260306-221447.jpg"
+alt="AKAZA❄️ BOT Banner"
+width="350"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dexmark-Tech" title="Dexmark Tech">
-    <img src="https://img.shields.io/badge/Dexmark%20Tech-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://wa.me/256748993044" title="Contact on WhatsApp">
-    <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/Dexmark-Tech" title="Dexmark Tech">
+<img src="https://img.shields.io/badge/Dexmark%20Tech-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
-
-## 📝 About
-
-**AKAZA BOT ιs тσ sραωη ηεω αυтσмαтιση αη∂ мαкε ιт sмαятεя, ησ ιℓℓεgαℓ αcтιvιтιεs. υsε тнε вσт яεsρσηsιвℓү ғσℓℓσω συя ωнαтsαρρ cнαηηεℓ ғσя мσяε υρ∂αтεs.   
-
-⚠️ This project is intended for **educational purposes only**. Use responsibly.
-
----
-
-## 🔑 WhatsApp Session Pairing (Official)
-
-This bot uses **WhatsApp’s official phone-number pairing method** via **Baileys**.
-
-### How to pair:
-1. Open the pairing site
-2. Enter your phone number with country code  
-3. Copy the generated pairing code  
-4. WhatsApp → **Linked Devices** → **Link with phone number**
-5. Paste the code → Done ✅
-
-<p align="center">
-  <a href="https://YOUR-PAIRING-SITE-URL" target="_blank">
-    <img src="https://img.shields.io/badge/Generate%20Pair%20Code-233044?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
-
-> ⚠️ Do NOT share your pairing site publicly.
-
----
-
-## 🚀 Deploy Instantly
-
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Dexmark-Tech/Majin-Buu-Bot">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  </a><br/>
-  <a href="https://railway.app/new">
-    <img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white"/>
-  </a><br/>
-  <a href="https://dashboard.render.com/web/new">
-    <img src="https://img.shields.io/badge/Render-00ffaa?style=for-the-badge&logo=render&logoColor=white"/>
-  </a><br/>
-  <a href="https://app.koyeb.com/services/deploy?type=git">
-    <img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white"/>
-  </a>
+<a href="https://wa.me/256748993044" title="Contact on WhatsApp">
+<img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 </p>
 
 ---
