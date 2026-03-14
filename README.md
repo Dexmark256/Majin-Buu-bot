@@ -3,7 +3,7 @@
 <br>
 
 <a href="https://git.io/typing-svg"> 
-<img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Akaza+WA+BOT;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Akaza❄️+WA+BOT;Multi+Device+Whatsapp+Bot;Made+by+Dante+dev" alt="Typing SVG" />
 </a> 
 
 </div>
@@ -34,7 +34,7 @@ width="340"/>
 <br>
 
 <a href="https://git.io/typing-svg"> 
-<img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+dante+dev" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=AKAZA❄️-MD;Multi+Device+Whatsapp+Bot;Made+by+Dante+dev" alt="Typing SVG"/>
 </a> 
 
 </div>
