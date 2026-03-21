@@ -1,23 +1,26 @@
 {
-  "name": "akaza-md-bot",
+  "name": "akaza-bot",
   "version": "1.0.0",
-  "description": "AKAZA Multi Device WhatsApp Bot",
+  "description": "WhatsApp Multi-Device Bot built with Baileys",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
-  "keywords": [
-    "whatsapp",
-    "bot",
-    "baileys",
-    "akaza"
-  ],
-  "author": "Dexmark",
-  "license": "MIT",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.0",
-    "pino": "^8.17.0",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "dotenv": "^16.4.5",
+    "pino": "^9.2.0",
+    "pino-pretty": "^11.2.1",
     "qrcode-terminal": "^0.12.0"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "",
+  "license": "MIT"
 }
