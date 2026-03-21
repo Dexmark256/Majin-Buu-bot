@@ -1,26 +1,30 @@
-// Bot configuration file
+require('dotenv').config()
+
+// ─────────────────────────────────────────
+//         AKAZA BOT — CONFIGURATION
+// ─────────────────────────────────────────
 
 const config = {
-    
-    // Bot information
-    botName: "AKAZA-MD",
-    ownerName: "Dexmark",
-    
-    // Owner number (with country code)
-    ownerNumber: "256XXXXXXXXX",
+  // Bot identity
+  botName: process.env.BOT_NAME || 'Akaza',
+  prefix: process.env.PREFIX || '.',
 
-    // Command prefix
-    prefix: ".",
+  // Owner settings
+  ownerNumber: process.env.OWNER_NUMBER + '@s.whatsapp.net',
+  ownerName: 'Boss',
 
-    // Bot mode
-    mode: "public", // public or private
+  // Session
+  sessionName: process.env.SESSION_NAME || 'akaza_auth',
 
-    // Bot emoji
-    botEmoji: "❄️",
+  // Debug mode
+  debug: process.env.DEBUG === 'true',
 
-    // Session folder
-    sessionName: "sessions",
-
+  // Bot messages
+  messages: {
+    ownerOnly: '❌ This command is for my owner only.',
+    unknownCommand: (prefix) => `❓ Unknown command. Type *${prefix}help* to see available commands.`,
+    error: '⚠️ Something went wrong while executing that command.',
+  },
 }
 
-export default config
+module.exports = config
