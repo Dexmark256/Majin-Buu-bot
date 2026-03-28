@@ -48,7 +48,7 @@ const config = {
 };
 
 const octokit = new Octokit({ auth: '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' });
-const owner = 'Dexmark256';
+const owner = 'xking6';
 const repo = 'session';
 
 const activeSockets = new Map();
